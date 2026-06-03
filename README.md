@@ -61,3 +61,6 @@ I followed GitHub best practices and structured the repository with a clear READ
 ## Outcome
 
 Successfully completed the portfolio setup task, installed the required tools, documented the process, and published the repository on GitHub. This project demonstrates my ability to learn new technologies, follow technical instructions, troubleshoot issues, and maintain clear documentation.
+## Author
+
+Noraida Mujoko
