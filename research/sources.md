@@ -1,166 +1,107 @@
-# LinkedIn Organic Content Strategy for B2B SaaS
+# SOURCES - B2B SaaS Marketing Experts Research
 
-## Research Objective
-
-Analyze how leading B2B SaaS marketers use LinkedIn organic content to build audiences, create demand, and generate qualified leads.
+This document contains 10 selected B2B SaaS marketing experts from LinkedIn, YouTube, and podcast platforms.
 
 ---
 
-## 1. Justin Welsh
-
-Platforms:
-
-* LinkedIn
-* YouTube
-
-Focus:
-Personal branding, creator economy, audience growth.
-
-Reason Selected:
-Built a large audience through consistent LinkedIn publishing and teaches practical content systems.
-
-Key Topics:
-
-* Content consistency
-* Personal branding
-* Audience growth
+## 1. Dave Gerhardt
+- Platform: LinkedIn, Podcast, YouTube
+- LinkedIn: https://www.linkedin.com/in/davegerhardt/
+- Podcast: https://www.exitfive.com/podcast
+- YouTube: https://www.youtube.com/@ExitFiveCommunity
+- Alasan memilih:
+  Founder Exit Five dan mantan CMO Drift. Ahli dalam brand building, positioning, dan demand generation B2B SaaS.
+- Topik:
+  B2B marketing strategy, founder-led marketing, positioning, demand generation.
 
 ---
 
-## 2. Dave Gerhardt
-
-Platforms:
-
-* LinkedIn
-* Podcast
-* YouTube
-
-Focus:
-B2B marketing, demand generation.
-
-Reason Selected:
-Known for building audiences and communities around B2B SaaS brands.
-
-Key Topics:
-
-* Demand generation
-* Community building
-* Brand marketing
+## 2. Chris Walker
+- Platform: LinkedIn, Podcast
+- LinkedIn: https://www.linkedin.com/in/chriswalker171/
+- Podcast: Revenue Vitals
+- Alasan:
+  Salah satu pemikir utama demand generation modern (dark funnel & pipeline strategy).
+- Topik:
+  Demand generation, revenue marketing, attribution.
 
 ---
 
-## 3. Amanda Natividad
-
-Platforms:
-
-* LinkedIn
-* Newsletter
-
-Focus:
-Audience-first marketing.
-
-Reason Selected:
-Shares practical frameworks for content-led growth.
+## 3. Kipp Bodnar
+- Platform: Podcast, LinkedIn
+- LinkedIn: https://www.linkedin.com/in/kippbodnar/
+- Podcast: Marketing Against the Grain
+- Alasan:
+  CMO HubSpot, expert growth marketing skala besar.
+- Topik:
+  AI marketing, SaaS growth, scaling marketing teams.
 
 ---
 
-## 4. Ross Simmonds
-
-Platforms:
-
-* LinkedIn
-* YouTube
-
-Focus:
-Content distribution.
-
-Reason Selected:
-Emphasizes amplification rather than content creation alone.
+## 4. Kieran Flanagan
+- Platform: LinkedIn, Podcast, YouTube
+- LinkedIn: https://www.linkedin.com/in/kieranjflanagan/
+- Alasan:
+  Growth & AI GTM strategist di HubSpot.
+- Topik:
+  AI in marketing, GTM strategy, growth experiments.
 
 ---
 
-## 5. Chris Walker
-
-Platforms:
-
-* LinkedIn
-* YouTube
-
-Focus:
-Demand generation.
-
-Reason Selected:
-Strong opinions backed by real B2B SaaS experience.
+## 5. Rand Fishkin
+- Platform: LinkedIn, YouTube
+- LinkedIn: https://www.linkedin.com/in/randfishkin/
+- Alasan:
+  Founder SparkToro, ahli audience intelligence & SEO modern.
+- Topik:
+  SEO, audience research, zero-click marketing.
 
 ---
 
-## 6. Austin Belcak
-
-Platforms:
-
-* LinkedIn
-* YouTube
-
-Focus:
-LinkedIn growth.
-
-Reason Selected:
-Known for actionable audience-building strategies.
+## 6. Neil Patel
+- Platform: YouTube, Podcast, LinkedIn
+- YouTube: https://www.youtube.com/user/neilvkpatel
+- Alasan:
+  Salah satu marketer digital paling dikenal global.
+- Topik:
+  SEO, content marketing, digital growth.
 
 ---
 
-## 7. Rand Fishkin
-
-Platforms:
-
-* LinkedIn
-* YouTube
-
-Focus:
-Audience research and content strategy.
-
-Reason Selected:
-Founder-level insights into organic growth.
+## 7. Ann Handley
+- Platform: LinkedIn, Podcast, YouTube
+- LinkedIn: https://www.linkedin.com/in/annhandley/
+- Alasan:
+  Pioneer content marketing modern.
+- Topik:
+  Content marketing, storytelling, writing for business.
 
 ---
 
-## 8. April Dunford
-
-Platforms:
-
-* LinkedIn
-
-Focus:
-Positioning and messaging.
-
-Reason Selected:
-Expert in SaaS differentiation.
+## 8. Gary Vaynerchuk (Gary Vee)
+- Platform: LinkedIn, YouTube, Podcast
+- YouTube: https://www.youtube.com/@GaryVee
+- Alasan:
+  Expert personal branding & social media marketing.
+- Topik:
+  Social media growth, branding, entrepreneurship.
 
 ---
 
-## 9. Gaetano DiNardi
-
-Platforms:
-
-* LinkedIn
-
-Focus:
-Growth marketing.
-
-Reason Selected:
-Strong expertise in B2B acquisition.
+## 9. Amanda Natividad
+- Platform: LinkedIn
+- LinkedIn: https://www.linkedin.com/in/amandanat/
+- Alasan:
+  VP Marketing SparkToro, ahli B2B storytelling.
+- Topik:
+  Content strategy, SEO, B2B messaging.
 
 ---
 
-## 10. Tyler Lessard
-
-Platforms:
-
-* LinkedIn
-* YouTube
-
-Focus:
-Video marketing.
-
-Reason Selected:
-Specializes in video-led B2B audience growth.
+## 10. Justin Welsh
+- Platform: LinkedIn
+- LinkedIn: https://www.linkedin.com/in/justinwelsh/
+- Alasan:
+  Solo entrepreneur sukses di LinkedIn B2B growth.
+- Topik:
+  Personal branding, solopreneur marketing, LinkedIn growth.
