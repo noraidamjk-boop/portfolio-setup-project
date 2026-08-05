@@ -161,9 +161,6 @@ LinkedIn
 Research File:
 research/linkedin-posts/ross_simmonds.md
 
-Original Source:
-(Add the LinkedIn post URL you researched)
-
 Key Insight:
 Distribution is more important than creation.
 Repurpose one piece of content into multiple formats.
@@ -201,9 +198,6 @@ LinkedIn
 Research File:
 research/linkedin-posts/justin_welsh.md
 
-Original Source:
-(Add your LinkedIn post URL)
-
 Key Insight:
 Personal branding builds trust.
 
@@ -214,9 +208,6 @@ LinkedIn
 
 Research File:
 research/linkedin-posts/dave_gerhardt.md
-
-Original Source:
-(Add your LinkedIn post URL)
 
 Key Insight:
 Founder-led marketing strengthens positioning.
@@ -256,9 +247,6 @@ LinkedIn
 Research File:
 research/linkedin-posts/amanda_natividad.md
 
-Original Source:
-(Add your LinkedIn URL)
-
 Key Insight:
 Educational content builds trust.
 
@@ -269,9 +257,6 @@ LinkedIn
 
 Research File:
 research/linkedin-posts/ross_simmonds.md
-
-Original Source:
-(Add your LinkedIn URL)
 
 Key Insight:
 Distribution matters as much as creation.
@@ -311,9 +296,6 @@ LinkedIn
 Research File:
 research/linkedin-posts/austin_belcak.md
 
-Original Source:
-(Add LinkedIn URL)
-
 Key Insight:
 Use technology to improve productivity.
 
@@ -324,9 +306,6 @@ LinkedIn
 
 Research File:
 research/linkedin-posts/tyler_lessard.md
-
-Original Source:
-(Add LinkedIn URL)
 
 Key Insight:
 Video simplifies complex products.
@@ -366,9 +345,6 @@ LinkedIn
 Research File:
 research/linkedin-posts/chris_walker.md
 
-Original Source:
-(Add LinkedIn URL)
-
 Key Insight:
 Measure qualified pipeline instead of vanity metrics.
 
@@ -407,9 +383,6 @@ LinkedIn
 Research File:
 research/linkedin-posts/gaetano_dinardi.md
 
-Original Source:
-(Add LinkedIn URL)
-
 Key Insight:
 SEO should support business growth.
 
@@ -420,9 +393,6 @@ LinkedIn
 
 Research File:
 research/linkedin-posts/rand_fishkin.md
-
-Original Source:
-(Add LinkedIn URL)
 
 Key Insight:
 Audience research should guide strategy.
@@ -462,9 +432,6 @@ LinkedIn
 Research File:
 research/linkedin-posts/dave_gerhardt.md
 
-Original Source:
-(Add LinkedIn URL)
-
 Key Insight:
 Strong positioning strengthens demand generation.
 
@@ -475,9 +442,6 @@ LinkedIn
 
 Research File:
 research/linkedin-posts/amanda_natividad.md
-
-Original Source:
-(Add LinkedIn URL)
 
 Key Insight:
 Educational content builds long-term trust.
@@ -551,8 +515,7 @@ People connect with people, but long-term business value should ultimately stren
 
 ## 3. AI Adoption vs Human Creativity
 
-### Expert A: Kieran Flanagan & Kipp Bodnar
-
+### Expert A: Austin Belcak 
 Primary focus:
 - AI Marketing
 - Growth
@@ -560,8 +523,7 @@ Primary focus:
 
 They focus on using AI to improve efficiency, accelerate experimentation, and scale marketing operations.
 
-### Expert B: Ann Handley
-
+### Expert B: Ross Simmonds
 Primary focus:
 - Writing
 - Storytelling
@@ -676,48 +638,13 @@ This playbook should therefore be viewed as a living document that can evolve as
 ---
 
 # References
-
-This playbook is based on research from the following experts:
-
 1. Dave Gerhardt
-   - LinkedIn
-   - Exit Five Podcast
-   - Exit Five YouTube
-
 2. Chris Walker
-   - LinkedIn
-   - Revenue Vitals Podcast
-
-3. Kipp Bodnar
-   - LinkedIn
-   - Marketing Against the Grain Podcast
-
-4. Kieran Flanagan
-   - LinkedIn
-   - Podcast
-   - YouTube
-
-5. April Dunford
-   - LinkedIn
-   - YouTube
-
-6. Rand Fishkin
-   - LinkedIn
-   - YouTube
-   - Podcast
-
-7. Ann Handley
-   - LinkedIn
-   - Podcast
-   - YouTube
-
-8. Gaetano Dinardi
-   - LinkedIn
-   - YouTube
-   - Podcast
-
-9. Amanda Natividad
-   - LinkedIn
-
-10. Justin Welsh
-    - LinkedIn
+3. Amanda Natividad
+4. Justin Welsh
+5. Rand Fishkin
+6. April Dunford
+7. Austin Belcak
+8. Ross Simmonds
+9. Tyler Lessard
+10. Gaetano Dinardi
