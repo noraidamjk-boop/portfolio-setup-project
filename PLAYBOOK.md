@@ -62,6 +62,7 @@ Platform: LinkedIn / Podcast / YouTube
 
 Topic:
 Positioning, B2B Marketing Strategy, Demand Generation
+
 ## Step 2 – Research Customer Problems
 
 ### Objective
@@ -125,6 +126,7 @@ LinkedIn / Podcast
 
 Topic:
 Brand Positioning
+
 ## Step 4 – Build Educational Content
 
 ### Objective
@@ -159,9 +161,12 @@ LinkedIn
 Research File:
 research/linkedin-posts/ross_simmonds.md
 
+Original Source:
+(Add the LinkedIn post URL you researched)
+
 Key Insight:
 Distribution is more important than creation.
-Repurpose content and distribute across multiple channels.
+Repurpose one piece of content into multiple formats.
 
 ## Step 5 – Develop Founder-Led Marketing
 
@@ -196,8 +201,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/justin_welsh.md
 
+Original Source:
+(Add your LinkedIn post URL)
+
 Key Insight:
-Personal branding builds trust and authority with professional audiences.
+Personal branding builds trust.
 
 Dave Gerhardt
 
@@ -207,8 +215,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/dave_gerhardt.md
 
+Original Source:
+(Add your LinkedIn post URL)
+
 Key Insight:
-Founder-led marketing strengthens company positioning and demand generation.
+Founder-led marketing strengthens positioning.
 
 ## Step 6 – Develop a Multi-Channel Distribution Strategy
 
@@ -245,8 +256,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/amanda_natividad.md
 
+Original Source:
+(Add your LinkedIn URL)
+
 Key Insight:
-Content should educate first and naturally build trust before selling.
+Educational content builds trust.
 
 Ross Simmonds
 
@@ -256,8 +270,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/ross_simmonds.md
 
+Original Source:
+(Add your LinkedIn URL)
+
 Key Insight:
-Content distribution should receive as much attention as content creation.
+Distribution matters as much as creation.
 
 ## Step 7 – Implement AI to Improve Marketing Efficiency
 
@@ -294,8 +311,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/austin_belcak.md
 
+Original Source:
+(Add LinkedIn URL)
+
 Key Insight:
-Use technology and automation to improve marketing efficiency while maintaining authenticity.
+Use technology to improve productivity.
 
 Tyler Lessard
 
@@ -305,8 +325,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/tyler_lessard.md
 
+Original Source:
+(Add LinkedIn URL)
+
 Key Insight:
-Video communication helps simplify complex B2B products.
+Video simplifies complex products.
 
 ## Step 8 – Measure Marketing Performance
 
@@ -343,8 +366,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/chris_walker.md
 
+Original Source:
+(Add LinkedIn URL)
+
 Key Insight:
-Marketing performance should be measured by qualified pipeline rather than vanity metrics.
+Measure qualified pipeline instead of vanity metrics.
 
 ## Step 9 – Continuously Experiment and Optimize
 
@@ -381,8 +407,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/gaetano_dinardi.md
 
+Original Source:
+(Add LinkedIn URL)
+
 Key Insight:
-SEO should focus on business impact rather than rankings alone.
+SEO should support business growth.
 
 Rand Fishkin
 
@@ -392,8 +421,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/rand_fishkin.md
 
+Original Source:
+(Add LinkedIn URL)
+
 Key Insight:
-Audience research should guide every marketing decision.
+Audience research should guide strategy.
 
 ## Step 10 – Build Long-Term Brand Trust
 
@@ -430,8 +462,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/dave_gerhardt.md
 
+Original Source:
+(Add LinkedIn URL)
+
 Key Insight:
-Strong positioning creates stronger demand generation.
+Strong positioning strengthens demand generation.
 
 Amanda Natividad
 
@@ -441,8 +476,11 @@ LinkedIn
 Research File:
 research/linkedin-posts/amanda_natividad.md
 
+Original Source:
+(Add LinkedIn URL)
+
 Key Insight:
-Educational content creates long-term customer trust.
+Educational content builds long-term trust.
 
 # Where Experts Disagree
 
@@ -463,14 +501,14 @@ Primary focus:
 
 Chris Walker's work focuses on creating demand before prospects actively search for solutions. The objective is to educate potential buyers and build awareness throughout the buying journey.
 
-### Expert B: Neil Patel
+### Expert B: Rand Fishkin
 
 Primary focus:
 - SEO
 - Content Marketing
 - Organic Traffic
 
-Neil Patel's work places greater emphasis on creating searchable content that attracts visitors through search engines over time.
+Rand Fishkin's work places greater emphasis on creating searchable content that attracts visitors through search engines over time.
 
 ### My Decision
 
@@ -612,9 +650,10 @@ This playbook is based on research from ten selected experts. Other experienced 
 
 ## Gaetano Dinardi
 
-### Why?
+Gaetano Dinardi provides valuable expertise in SEO and search marketing. However, his content focuses primarily on SEO strategy rather than the broader disciplines required for a complete B2B SaaS marketing system.
 
-Gaetano Dinardi provides valuable SEO expertise, but his content focuses primarily on search optimization. For organizations building a complete B2B SaaS marketing system, relying only on SEO could limit broader marketing capabilities such as positioning, demand generation, founder branding, and customer education. Therefore, I would use his SEO insights as one component of a broader marketing strategy rather than following his approach in isolation.
+For this reason, I would use his SEO insights as one component of a wider marketing strategy instead of relying on them as a complete framework.
+
 # Conclusion
 
 Effective B2B SaaS marketing is not about following a single expert or relying on one marketing channel.
@@ -658,11 +697,11 @@ This playbook is based on research from the following experts:
    - Podcast
    - YouTube
 
-5. Rand Fishkin
+5. April Dunford
    - LinkedIn
    - YouTube
 
-6. Neil Patel
+6. Rand Fishkin
    - LinkedIn
    - YouTube
    - Podcast
@@ -672,7 +711,7 @@ This playbook is based on research from the following experts:
    - Podcast
    - YouTube
 
-8. Gary Vaynerchuk
+8. Gaetano Dinardi
    - LinkedIn
    - YouTube
    - Podcast
