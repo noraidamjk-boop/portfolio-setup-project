@@ -20,6 +20,12 @@ To analyze modern B2B SaaS marketing strategies including:
 - YouTube content analysis
 - Podcast insights
 
+  ## Repository Contents
+
+- research/
+- PLAYBOOK.md
+- README.md
+
 ## Status
 Project completed and ready for review.
 
