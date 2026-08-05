@@ -149,15 +149,20 @@ Create content that educates rather than simply promotes products.
 - Higher website traffic.
 - More returning visitors.
 
-### Source
+### Sources
 
-Ann Handley
+Ross Simmonds
 
 Platform:
-LinkedIn / Podcast
+LinkedIn
 
-Topic:
-Content Marketing
+Research File:
+research/linkedin-posts/ross_simmonds.md
+
+Key Insight:
+Distribution is more important than creation.
+Repurpose content and distribute across multiple channels.
+
 ## Step 5 – Develop Founder-Led Marketing
 
 ### Objective
@@ -188,16 +193,23 @@ Justin Welsh
 Platform:
 LinkedIn
 
-Topic:
-Personal Branding
+Research File:
+research/linkedin-posts/justin_welsh.md
 
-Gary Vaynerchuk
+Key Insight:
+Personal branding builds trust and authority with professional audiences.
+
+Dave Gerhardt
 
 Platform:
-LinkedIn / YouTube
+LinkedIn
 
-Topic:
-Personal Branding
+Research File:
+research/linkedin-posts/dave_gerhardt.md
+
+Key Insight:
+Founder-led marketing strengthens company positioning and demand generation.
+
 ## Step 6 – Develop a Multi-Channel Distribution Strategy
 
 ### Objective
@@ -230,18 +242,22 @@ Amanda Natividad
 Platform:
 LinkedIn
 
-Topic:
-Content Strategy, B2B Messaging
+Research File:
+research/linkedin-posts/amanda_natividad.md
 
-Neil Patel
+Key Insight:
+Content should educate first and naturally build trust before selling.
+
+Ross Simmonds
 
 Platform:
-YouTube / Podcast / LinkedIn
+LinkedIn
 
-Topic:
-Content Marketing, Digital Growth
+Research File:
+research/linkedin-posts/ross_simmonds.md
 
----
+Key Insight:
+Content distribution should receive as much attention as content creation.
 
 ## Step 7 – Implement AI to Improve Marketing Efficiency
 
@@ -270,23 +286,27 @@ Use AI tools to improve productivity while maintaining content quality and human
 
 ### Sources
 
-Kipp Bodnar
+Austin Belcak
 
 Platform:
-Podcast / LinkedIn
+LinkedIn
 
-Topic:
-AI Marketing, SaaS Growth
+Research File:
+research/linkedin-posts/austin_belcak.md
 
-Kieran Flanagan
+Key Insight:
+Use technology and automation to improve marketing efficiency while maintaining authenticity.
+
+Tyler Lessard
 
 Platform:
-LinkedIn / Podcast / YouTube
+LinkedIn
 
-Topic:
-AI Marketing, GTM Strategy
+Research File:
+research/linkedin-posts/tyler_lessard.md
 
----
+Key Insight:
+Video communication helps simplify complex B2B products.
 
 ## Step 8 – Measure Marketing Performance
 
@@ -318,20 +338,13 @@ Evaluate marketing activities using business-focused metrics rather than vanity 
 Chris Walker
 
 Platform:
-LinkedIn / Podcast
+LinkedIn
 
-Topic:
-Demand Generation, Revenue Marketing
+Research File:
+research/linkedin-posts/chris_walker.md
 
-Kipp Bodnar
-
-Platform:
-Podcast / LinkedIn
-
-Topic:
-Growth Marketing
-
----
+Key Insight:
+Marketing performance should be measured by qualified pipeline rather than vanity metrics.
 
 ## Step 9 – Continuously Experiment and Optimize
 
@@ -360,23 +373,27 @@ Improve marketing performance through continuous testing and learning.
 
 ### Sources
 
-Kieran Flanagan
+Gaetano Dinardi
 
 Platform:
-LinkedIn / Podcast
+LinkedIn
 
-Topic:
-Growth Experiments
+Research File:
+research/linkedin-posts/gaetano_dinardi.md
 
-Neil Patel
+Key Insight:
+SEO should focus on business impact rather than rankings alone.
+
+Rand Fishkin
 
 Platform:
-YouTube / LinkedIn
+LinkedIn
 
-Topic:
-Digital Growth
+Research File:
+research/linkedin-posts/rand_fishkin.md
 
----
+Key Insight:
+Audience research should guide every marketing decision.
 
 ## Step 10 – Build Long-Term Brand Trust
 
@@ -408,31 +425,32 @@ Create sustainable business growth through consistent value creation and authent
 Dave Gerhardt
 
 Platform:
-LinkedIn / Podcast / YouTube
+LinkedIn
 
-Topic:
-Brand Building, Demand Generation
+Research File:
+research/linkedin-posts/dave_gerhardt.md
 
-Ann Handley
+Key Insight:
+Strong positioning creates stronger demand generation.
 
-Platform:
-LinkedIn / Podcast / YouTube
-
-Topic:
-Content Marketing
-
-Justin Welsh
+Amanda Natividad
 
 Platform:
 LinkedIn
 
-Topic:
-Personal Branding
+Research File:
+research/linkedin-posts/amanda_natividad.md
+
+Key Insight:
+Educational content creates long-term customer trust.
+
 # Where Experts Disagree
 
-This section highlights areas where the experts included in this research emphasize different priorities or approaches. These comparisons are based on the primary topics covered by each expert and my evaluation of what is most practical for a B2B SaaS company.
+Chris Walker
 
----
+vs
+
+Rand Fishkin
 
 ## 1. Demand Generation vs SEO-First Growth
 
@@ -592,26 +610,11 @@ This playbook is based on research from ten selected experts. Other experienced 
 
 # Who I Would NOT Recommend Following and Why
 
-After reviewing the selected experts, I believe every expert provides valuable insights within their area of expertise. However, if I had to recommend using one expert's advice more selectively, I would choose Gary Vaynerchuk.
-
-## Gary Vaynerchuk (Gary Vee)
+## Gaetano Dinardi
 
 ### Why?
 
-Gary Vaynerchuk is an outstanding expert in:
-
-- Personal branding
-- Entrepreneurship
-- Social media marketing
-
-However, much of his content targets entrepreneurs, creators, and consumer-facing businesses rather than the specific challenges of B2B SaaS marketing.
-
-For companies focused on complex B2B sales cycles, I believe his ideas should complement—not replace—more specialized B2B SaaS marketing frameworks.
-
-This does not reduce the value of his work; it simply reflects that his expertise is broader than the specific scope of this playbook.
-
----
-
+Gaetano Dinardi provides valuable SEO expertise, but his content focuses primarily on search optimization. For organizations building a complete B2B SaaS marketing system, relying only on SEO could limit broader marketing capabilities such as positioning, demand generation, founder branding, and customer education. Therefore, I would use his SEO insights as one component of a broader marketing strategy rather than following his approach in isolation.
 # Conclusion
 
 Effective B2B SaaS marketing is not about following a single expert or relying on one marketing channel.
