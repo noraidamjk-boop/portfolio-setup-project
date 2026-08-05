@@ -416,3 +416,139 @@ LinkedIn
 
 Topic:
 Personal Branding
+# Where Experts Disagree
+
+This section highlights areas where the experts included in this research emphasize different priorities or approaches. These comparisons are based on the primary topics covered by each expert and my evaluation of what is most practical for a B2B SaaS company.
+
+---
+
+## 1. Demand Generation vs SEO-First Growth
+
+### Expert A: Chris Walker
+
+Primary focus:
+- Demand Generation
+- Revenue Marketing
+- Pipeline Growth
+
+Chris Walker's work focuses on creating demand before prospects actively search for solutions. The objective is to educate potential buyers and build awareness throughout the buying journey.
+
+### Expert B: Neil Patel
+
+Primary focus:
+- SEO
+- Content Marketing
+- Organic Traffic
+
+Neil Patel's work places greater emphasis on creating searchable content that attracts visitors through search engines over time.
+
+### My Decision
+
+I would prioritize demand generation first while building SEO as a long-term asset.
+
+Reason:
+
+Early-stage B2B SaaS companies often need awareness before they can benefit fully from SEO. Once consistent demand exists, SEO becomes an effective channel for sustainable growth.
+
+---
+
+## 2. Founder Branding vs Company Branding
+
+### Expert A: Justin Welsh
+
+Primary focus:
+- Personal Branding
+- LinkedIn Growth
+
+Justin Welsh demonstrates how a founder's personal brand can create trust and accelerate audience growth.
+
+### Expert B: Dave Gerhardt
+
+Primary focus:
+- Brand Positioning
+- Company Marketing
+- Demand Generation
+
+Dave Gerhardt emphasizes building a strong company brand supported by clear positioning and messaging.
+
+### My Decision
+
+I believe founder branding should support—not replace—the company brand.
+
+Reason:
+
+People connect with people, but long-term business value should ultimately strengthen the company's brand rather than relying entirely on one individual.
+
+---
+
+## 3. AI Adoption vs Human Creativity
+
+### Expert A: Kieran Flanagan & Kipp Bodnar
+
+Primary focus:
+- AI Marketing
+- Growth
+- Automation
+
+They focus on using AI to improve efficiency, accelerate experimentation, and scale marketing operations.
+
+### Expert B: Ann Handley
+
+Primary focus:
+- Writing
+- Storytelling
+- Human Communication
+
+Ann Handley emphasizes authentic writing and meaningful communication that builds trust with readers.
+
+### My Decision
+
+I recommend using AI to improve efficiency while keeping humans responsible for strategy, storytelling, and final editorial decisions.
+
+Reason:
+
+AI can significantly reduce repetitive work, but authentic insights, creativity, and customer empathy remain essential for effective B2B marketing.
+# What I Rejected and Why
+
+## Rejected Idea 1
+
+### Idea
+
+Relying on a single marketing channel for long-term growth.
+
+### Why I Rejected It
+
+Different experts specialize in different channels such as SEO, LinkedIn, AI marketing, and content marketing. Depending on only one channel increases business risk and limits audience reach.
+
+I recommend building an integrated marketing system instead.
+
+---
+
+## Rejected Idea 2
+
+### Idea
+
+Prioritizing vanity metrics such as likes and impressions as primary success indicators.
+
+### Why I Rejected It
+
+While engagement is valuable, B2B SaaS companies should ultimately measure qualified pipeline, customer acquisition, and revenue impact instead of social media popularity alone.
+# My Original Idea
+
+## Customer Insight Repository
+
+One idea that was not directly included in the experts' primary topics is creating a centralized Customer Insight Repository.
+
+This repository would collect:
+
+- Customer interview notes
+- Frequently asked questions
+- Sales objections
+- Support conversations
+- Product feedback
+
+Every content creator, marketer, and salesperson could contribute to and use this repository when creating campaigns.
+
+Why I believe this could work:
+
+It ensures that all marketing activities are consistently based on real customer language and business problems, improving relevance and alignment across teams.
