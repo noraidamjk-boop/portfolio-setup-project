@@ -524,13 +524,18 @@ Primary focus:
 They focus on using AI to improve efficiency, accelerate experimentation, and scale marketing operations.
 
 ### Expert B: Ross Simmonds
+
 Primary focus:
-- Writing
-- Storytelling
-- Human Communication
 
-Ann Handley emphasizes authentic writing and meaningful communication that builds trust with readers.
+- Content Distribution
+- Content Strategy
+- Multi-channel Marketing
 
+Ross Simmonds emphasizes maximizing the impact of content by distributing it across multiple platforms and formats instead of relying on a single publication.
+
+### My Decision
+
+I recommend combining efficient marketing processes with a strong content distribution strategy. Technology can improve productivity, but content must still be distributed strategically to reach the right audience.
 ### My Decision
 
 I recommend using AI to improve efficiency while keeping humans responsible for strategy, storytelling, and final editorial decisions.
